@@ -1,0 +1,77 @@
+.main{
+    margin-left: 14%;
+    margin-right: 14%;
+    border-radius: 30px;
+    background-position: 30px;
+    background-color:pink;
+    }
+    h1{
+        font-size: 70px;
+        padding-left: 20px;
+    }
+    body{
+    
+    }
+    
+    li{
+        text-decoration: solid palevioletred;
+        display:inline-block;
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    .navbar{
+        display:flex;
+        padding-left: 10px;
+        
+        
+        
+    }
+    
+        #but1{
+        
+            padding-left: 2px;
+            
+            border-radius: 20%;
+            height: 37px;
+            color: white;
+            background-color: blueviolet;
+            margin-left: 120%;
+        
+            
+    
+        }
+        #login{
+            margin-left: 150px;
+            padding-left:30%;
+            margin-bottom: -10%;
+            
+        }
+        #plat{margin-bottom: 8px;margin-top: 3px; font-size: 20px;}
+        #site{margin-bottom: 15px;margin-top: 5px; font-size:35px;}
+        #sign{margin-bottom: 120px;margin-top:2px; font-size: 50px;}
+        
+        img{
+            
+            margin-left: 60%;
+            width: 350px;
+            margin-right: 10%;
+            margin-top: -35%;
+            padding-right: 80px;
+            margin-right: 70%;
+            margin-left: px;
+            
+        }
+        #iden{
+            margin-bottom: 90px;
+        font-size: 25px;
+        margin-top: -15%;
+        }
+        #but2{
+            color: aliceblue;
+            border: 0px;
+            border-radius: 5px;
+            background-color: blueviolet;
+            padding: 15px;
+        }
+        
